@@ -1,6 +1,8 @@
 criu2json
 =========
 
+NOTE: My CRIT(CRiu Image Tool) patches are now merged into official criu repo, so there is no need in criu2json anymore.
+
 criu image to/from json converter
 
 == Intro ==
